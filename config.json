@@ -5,8 +5,8 @@
     },
 
     "server":{
-        "address":"PhoenixForceMC.aternos.me:32076",
-        "port":32076
+        "address":"hvhwars.aternos.me",
+        "port":20756
     },
 
     "keyword":{
